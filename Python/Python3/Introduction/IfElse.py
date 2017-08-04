@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/py-if-else
 if __name__ == '__main__':
     n = int(raw_input().strip())
         
